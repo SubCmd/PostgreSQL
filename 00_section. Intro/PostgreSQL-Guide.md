@@ -1,4 +1,5 @@
 # # Part 1: SQL 환경 설정 & RDBMS 기초
+: DB Beaver 이용해서 postgreSQL 이용해서 학습
 
 ## 1-1 RDBMS란?
 RDBMS(Relational Database Management System, 관계형 데이터베이스 관리 시스템)
